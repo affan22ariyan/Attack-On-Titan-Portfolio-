@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding:0;
+    background-color: #1c5e0b;
+
+}
+
+.img-project img{
+    width: 600px;
+    height: 500px;
+    padding-left:10px;
+    
+}
